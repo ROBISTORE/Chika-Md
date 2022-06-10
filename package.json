@@ -1,8 +1,8 @@
 {
-  "name": "Chika-Md",
+  "name": "RIMURU BOTZ",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
-  "main": "riy.js",
+  "main": "robistore.js",
   "type": "commonjs",
   "scripts": {
     "start": "node riy.js"
