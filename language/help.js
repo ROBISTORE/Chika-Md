@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @ROBI STORE
+› Base Ori @ROBI STORE
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
 */
@@ -29,6 +29,8 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}linkgroup
   *≻* ${prefix}ephemeral [option]
   *≻* ${prefix}setppgc
+  *≻* ${prefix}welcome
+  *≻* ${prefix}setwelcome
   *≻* ${prefix}setname 
   *≻* ${prefix}setdesc 
   *≻* ${prefix}group [option]
@@ -953,7 +955,7 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   *THANKS TO*
-  *≻* DikaArdnt
+  *≻* ROBI STORE
   *≻* ZeeoneOfc
   *≻* FatihArridho
   *≻* Yoga
@@ -961,6 +963,6 @@ exports.thanksto = () => {
   *≻* Deff
   *≻* Sanzy
   *≻* Nekel
-  *≻* Bagas Prdn
+  *≻* RIMURU BOTZ
 `
 }
